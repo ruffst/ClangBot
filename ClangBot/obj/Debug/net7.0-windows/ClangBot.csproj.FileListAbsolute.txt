@@ -1,0 +1,17 @@
+O:\Programming\C#\ClangBot\ClangBot\bin\Debug\net7.0-windows\ClangBot.exe
+O:\Programming\C#\ClangBot\ClangBot\bin\Debug\net7.0-windows\ClangBot.deps.json
+O:\Programming\C#\ClangBot\ClangBot\bin\Debug\net7.0-windows\ClangBot.runtimeconfig.json
+O:\Programming\C#\ClangBot\ClangBot\bin\Debug\net7.0-windows\ClangBot.dll
+O:\Programming\C#\ClangBot\ClangBot\bin\Debug\net7.0-windows\ClangBot.pdb
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.csproj.AssemblyReference.cache
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.Form1.resources
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.csproj.GenerateResource.cache
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.GeneratedMSBuildEditorConfig.editorconfig
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.AssemblyInfoInputs.cache
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.AssemblyInfo.cs
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.csproj.CoreCompileInputs.cache
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.dll
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\refint\ClangBot.dll
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.pdb
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ClangBot.genruntimeconfig.cache
+O:\Programming\C#\ClangBot\ClangBot\obj\Debug\net7.0-windows\ref\ClangBot.dll
